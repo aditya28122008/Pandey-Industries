@@ -42,10 +42,6 @@ To set up the project locally, follow these steps:
 
    Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
 
-## Usage
-
-[Provide instructions on how to use the application, including any necessary configurations or features.]
-
 ## Contributing
 
 Contributions are welcome! To contribute:
@@ -70,12 +66,4 @@ Contributions are welcome! To contribute:
    ```
 
 5. Open a pull request detailing your changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-*Note: This template is based on the structure and technologies used in the Pandey Industries project. Adjust the placeholders and sections as needed to accurately reflect your project's details.*
 
